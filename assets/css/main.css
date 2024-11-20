@@ -3836,7 +3836,7 @@ input, select, textarea {
 			-webkit-align-items: -webkit-stretch;
 			-ms-align-items: -ms-stretch;
 			align-items: stretch;
-			text-align: center;
+			text-align: left;
 			width: 100%;
 			padding: 0;
 		}
@@ -3866,7 +3866,7 @@ input, select, textarea {
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
-				text-align: center;
+				text-align: left;
 			}
 
 				#main > .posts > article > :last-child {

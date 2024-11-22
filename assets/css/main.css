@@ -3442,8 +3442,9 @@ body.is-preload #wrapper.fade-in:before {
 }
 
 #intro #hero {
-    max-width: 600px;
-    margin: auto;
+    width: 600px;
+    max-width: 80%;
+    margin: auto auto 60px;
 }
 
 body.is-preload #intro {

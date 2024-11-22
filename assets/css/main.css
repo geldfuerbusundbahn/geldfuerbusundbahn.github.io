@@ -3441,7 +3441,7 @@ body.is-preload #wrapper.fade-in:before {
     visibility: visible;
 }
 
-#intro #hero {
+#hero {
     width: 600px;
     max-width: 80%;
     margin: auto auto 60px;

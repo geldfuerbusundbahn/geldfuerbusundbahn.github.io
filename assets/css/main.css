@@ -3354,7 +3354,7 @@ table.alt tbody tr td {
   height: 100%;
   background-color: #212931;
   background-image: url("../../images/OEPNV-HP-02.png");
-  background-size: 100% auto;
+  background-size: 100vw auto;
   background-position: top center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -3394,7 +3394,8 @@ body.is-preload #wrapper.fade-in:before {
 
 @media screen and (orientation: portrait) {
   #wrapper > .bg {
-    background-size: auto, auto, auto 175%;
+    /*background-size: auto, auto, auto 175%;*/
+    background-size: cover;
   }
 }
 

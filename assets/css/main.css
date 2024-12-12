@@ -413,6 +413,11 @@ b {
 	color: #212931;
 }
 
+p.small {
+	font-size: small;
+	line-height: normal;
+}
+
 h1,
 h2,
 h3,
